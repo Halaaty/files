@@ -1,137 +1,137 @@
 [
   {
     "code": "AE",
-    "name": "United Arab Emirates",
+    "name": "Birleşik Arap Emirlikleri",
     "flag": "🇦🇪"
   },
   {
     "code": "RU",
-    "name": "Russia",
+    "name": "Rusya",
     "flag": "🇷🇺"
   },
   {
     "code": "DE",
-    "name": "Germany",
+    "name": "Almanya",
     "flag": "🇩🇪"
   },
   {
     "code": "FR",
-    "name": "France",
+    "name": "Fransa",
     "flag": "🇫🇷"
   },
   {
     "code": "GB",
-    "name": "United Kingdom",
+    "name": "Birleşik Krallık",
     "flag": "🇬🇧"
   },
   {
     "code": "IT",
-    "name": "Italy",
+    "name": "İtalya",
     "flag": "🇮🇹"
   },
   {
     "code": "ES",
-    "name": "Spain",
+    "name": "İspanya",
     "flag": "🇪🇸"
   },
   {
     "code": "UA",
-    "name": "Ukraine",
+    "name": "Ukrayna",
     "flag": "🇺🇦"
   },
   {
     "code": "TR",
-    "name": "Turkey",
+    "name": "Türkiye",
     "flag": "🇹🇷"
   },
   {
     "code": "PL",
-    "name": "Poland",
+    "name": "Polonya",
     "flag": "🇵🇱"
   },
   {
     "code": "RO",
-    "name": "Romania",
+    "name": "Romanya",
     "flag": "🇷🇴"
   },
   {
     "code": "NL",
-    "name": "Netherlands",
+    "name": "Hollanda",
     "flag": "🇳🇱"
   },
   {
     "code": "BE",
-    "name": "Belgium",
+    "name": "Belçika",
     "flag": "🇧🇪"
   },
   {
     "code": "GR",
-    "name": "Greece",
+    "name": "Yunanistan",
     "flag": "🇬🇷"
   },
   {
     "code": "PT",
-    "name": "Portugal",
+    "name": "Portekiz",
     "flag": "🇵🇹"
   },
   {
     "code": "CZ",
-    "name": "Czech Republic",
+    "name": "Çek Cumhuriyeti",
     "flag": "🇨🇿"
   },
   {
     "code": "SE",
-    "name": "Sweden",
+    "name": "İsveç",
     "flag": "🇸🇪"
   },
   {
     "code": "CH",
-    "name": "Switzerland",
+    "name": "İsviçre",
     "flag": "🇨🇭"
   },
   {
     "code": "HU",
-    "name": "Hungary",
+    "name": "Macaristan",
     "flag": "🇭🇺"
   },
   {
     "code": "AT",
-    "name": "Austria",
+    "name": "Avusturya",
     "flag": "🇦🇹"
   },
   {
     "code": "BG",
-    "name": "Bulgaria",
+    "name": "Bulgaristan",
     "flag": "🇧🇬"
   },
   {
     "code": "DK",
-    "name": "Denmark",
+    "name": "Danimarka",
     "flag": "🇩🇰"
   },
   {
     "code": "FI",
-    "name": "Finland",
+    "name": "Finlandiya",
     "flag": "🇫🇮"
   },
   {
     "code": "SK",
-    "name": "Slovakia",
+    "name": "Slovakya",
     "flag": "🇸🇰"
   },
   {
     "code": "NO",
-    "name": "Norway",
+    "name": "Norveç",
     "flag": "🇳🇴"
   },
   {
     "code": "IE",
-    "name": "Ireland",
+    "name": "İrlanda",
     "flag": "🇮🇪"
   },
   {
     "code": "HR",
-    "name": "Croatia",
+    "name": "Hırvatistan",
     "flag": "🇭🇷"
   },
   {
@@ -141,37 +141,37 @@
   },
   {
     "code": "MK",
-    "name": "North Macedonia",
+    "name": "Kuzey Makedonya",
     "flag": "🇲🇰"
   },
   {
     "code": "RS",
-    "name": "Serbia",
+    "name": "Sırbistan",
     "flag": "🇷🇸"
   },
   {
     "code": "LT",
-    "name": "Lithuania",
+    "name": "Litvanya",
     "flag": "🇱🇹"
   },
   {
     "code": "SI",
-    "name": "Slovenia",
+    "name": "Slovenya",
     "flag": "🇸🇮"
   },
   {
     "code": "LV",
-    "name": "Latvia",
+    "name": "Letonya",
     "flag": "🇱🇻"
   },
   {
     "code": "EE",
-    "name": "Estonia",
+    "name": "Estonya",
     "flag": "🇪🇪"
   },
   {
     "code": "CY",
-    "name": "Cyprus",
+    "name": "Kıbrıs",
     "flag": "🇨🇾"
   },
   {
@@ -181,22 +181,22 @@
   },
   {
     "code": "LU",
-    "name": "Luxembourg",
+    "name": "Lüksemburg",
     "flag": "🇱🇺"
   },
   {
     "code": "IS",
-    "name": "Iceland",
+    "name": "İzlanda",
     "flag": "🇮🇸"
   },
   {
     "code": "AL",
-    "name": "Albania",
+    "name": "Arnavutluk",
     "flag": "🇦🇱"
   },
   {
     "code": "LI",
-    "name": "Liechtenstein",
+    "name": "Lihtenştayn",
     "flag": "🇱🇮"
   },
   {
@@ -206,7 +206,7 @@
   },
   {
     "code": "MC",
-    "name": "Monaco",
+    "name": "Monako",
     "flag": "🇲🇨"
   },
   {
@@ -216,57 +216,57 @@
   },
   {
     "code": "VA",
-    "name": "Holy See",
+    "name": "Vatikan",
     "flag": "🇻🇦"
   },
   {
     "code": "US",
-    "name": "United States",
+    "name": "Amerika Birleşik Devletleri",
     "flag": "🇺🇸"
   },
   {
     "code": "CA",
-    "name": "Canada",
+    "name": "Kanada",
     "flag": "🇨🇦"
   },
   {
     "code": "MX",
-    "name": "Mexico",
+    "name": "Meksika",
     "flag": "🇲🇽"
   },
   {
     "code": "ZA",
-    "name": "South Africa",
+    "name": "Güney Afrika",
     "flag": "🇿🇦"
   },
   {
     "code": "AU",
-    "name": "Australia",
+    "name": "Avustralya",
     "flag": "🇦🇺"
   },
   {
     "code": "IN",
-    "name": "India",
+    "name": "Hindistan",
     "flag": "🇮🇳"
   },
   {
     "code": "CN",
-    "name": "China",
+    "name": "Çin",
     "flag": "🇨🇳"
   },
   {
     "code": "KR",
-    "name": "South Korea",
+    "name": "Güney Kore",
     "flag": "🇰🇷"
   },
   {
     "code": "GE",
-    "name": "Georgia",
+    "name": "Gürcistan",
     "flag": "🇬🇪"
   },
   {
     "code": "AZ",
-    "name": "Azerbaijan",
+    "name": "Azerbaycan",
     "flag": "🇦🇿"
   },
   {
@@ -276,7 +276,7 @@
   },
   {
     "code": "SG",
-    "name": "Singapore",
+    "name": "Singapur",
     "flag": "🇸🇬"
   }
 ]
